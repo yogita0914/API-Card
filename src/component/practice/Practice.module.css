@@ -1,0 +1,54 @@
+body{
+    background-color: #71757a;
+    margin: 0;
+    padding: 0;
+}
+h3{
+    color: #fff;
+    text-align: center;
+    font-size: 2em;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    margin-left: 24em;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 6em;
+    background-color: #865c59;
+    color: #fff;
+    width: 38%;
+    border-radius: 7px;
+}
+.phone_data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+.activeDot{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #272424;
+    margin: 0 5px;
+    cursor: pointer;
+}
+.imgs{
+    border-top-right-radius: 7px;
+    border-top-left-radius: 7px;
+    width: 30.7rem;
+    height: 20rem;
+}
+.dot{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin: 0 5px;
+    cursor: pointer;
+    background-color: #888;
+}
+.content{
+    margin-bottom: 18px;
+}
